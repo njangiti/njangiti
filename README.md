@@ -1,20 +1,13 @@
 
-# Hey Everyone! I'm [Kiransagar](https://github.com/kiransagar1) <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px">
+# Hey Everyone! I'm [Narendhar Jangiti](https://github.com/njangiti) <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px">
 <br><br>
 
-<a href="https://www.linkedin.com/in/kiran-sagar-a00a761b2/">
+<a href="https://www.linkedin.com/in/narendhar-jangiti-37b27917b/">
   <img align="left" alt="akd's Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
 </a>
-<a href="https://github.com/kiransagar1">
+<a href="https://github.com/njangiti">
   <img align="left" alt="akd's Github" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
 </a>
-<a href="https://www.instagram.com/pythonlifetelugu/?hl=en">
-  <img align="left" alt="akd's Instagram" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="https://www.youtube.com/channel/UC3Qe9c8dZqnjwcDD2vCZBKQ">
-  <img align="left" alt="akd's Youtube" width="100px" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white" />
-</a>
-
 
 <br><br>
 
