@@ -22,7 +22,7 @@
 - 🌱 I’m currently learning Artificial Intelligence
 - 👯 I’m looking to collaborate on Youtube
 - 💬 Ask me about Computer Vision
-- 📫 How to reach me: pythonlifekiran@gmail.com
+- 📫 How to reach me: njangiti@rivier.edu
   <br>
 </div>
 
