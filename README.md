@@ -18,9 +18,8 @@
 <img align="right" src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/terminal.gif" width="40%"/>
   <br>
   
-- 🔭 I’m currently working on PythonLife
+- 🔭 I’m currently working on Python and ML projects
 - 🌱 I’m currently learning Artificial Intelligence
-- 👯 I’m looking to collaborate on Youtube
 - 💬 Ask me about Computer Vision
 - 📫 How to reach me: njangiti@rivier.edu
   <br>
